@@ -1,0 +1,27 @@
+{
+  "name": "LPSCustomersManager",
+  "version": "1.0.0",
+  "description": "'Les Petits Soins' Customers Manager",
+  "main": "server.js",
+  "dependencies": {
+    "angular-cli": "^1.0.0-beta.28.3",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandreVersmee/LPSCustomersManager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandreVersmee/LPSCustomersManager/issues"
+  },
+  "homepage": "https://github.com/AlexandreVersmee/LPSCustomersManager#readme"
+}
